@@ -1,0 +1,90 @@
+[
+  {
+    "name": "Mercury",
+    "type": "Terrestrial",
+    "distance_from_sun": 57.9,
+    "diameter": 4879,
+    "day_length": 4222.6,
+    "year_length": 88,
+    "moons": 0,
+    "temperature": 167,
+    "fun_fact": "Mercury has no atmosphere to retain heat, so its surface temperature varies wildly between day and night."
+  },
+  {
+    "name": "Venus",
+    "type": "Terrestrial",
+    "distance_from_sun": 108.2,
+    "diameter": 12104,
+    "day_length": 2802.0,
+    "year_length": 224.7,
+    "moons": 0,
+    "temperature": 464,
+    "fun_fact": "Venus spins backward compared to most planets, so the Sun rises in the west and sets in the east."
+  },
+  {
+    "name": "Earth",
+    "type": "Terrestrial",
+    "distance_from_sun": 149.6,
+    "diameter": 12742,
+    "day_length": 24.0,
+    "year_length": 365.25,
+    "moons": 1,
+    "temperature": 15,
+    "fun_fact": "Earth is the only planet known to support life and has liquid water covering most of its surface."
+  },
+  {
+    "name": "Mars",
+    "type": "Terrestrial",
+    "distance_from_sun": 227.9,
+    "diameter": 6779,
+    "day_length": 24.6,
+    "year_length": 687,
+    "moons": 2,
+    "temperature": -63,
+    "fun_fact": "Mars has the tallest volcano in the solar system, Olympus Mons, which is about three times taller than Mount Everest."
+  },
+  {
+    "name": "Jupiter",
+    "type": "Gas Giant",
+    "distance_from_sun": 778.6,
+    "diameter": 139820,
+    "day_length": 9.9,
+    "year_length": 4333,
+    "moons": 95,
+    "temperature": -108,
+    "fun_fact": "Jupiter is so massive that it could contain more than 1,300 Earths inside it."
+  },
+  {
+    "name": "Saturn",
+    "type": "Gas Giant",
+    "distance_from_sun": 1433.5,
+    "diameter": 116460,
+    "day_length": 10.7,
+    "year_length": 10759,
+    "moons": 83,
+    "temperature": -139,
+    "fun_fact": "Saturn's rings are made of ice and rock and extend thousands of kilometers from the planet."
+  },
+  {
+    "name": "Uranus",
+    "type": "Ice Giant",
+    "distance_from_sun": 2872.5,
+    "diameter": 50724,
+    "day_length": 17.2,
+    "year_length": 30687,
+    "moons": 27,
+    "temperature": -195,
+    "fun_fact": "Uranus rotates on its side, making its poles face the Sun for long periods during its orbit."
+  },
+  {
+    "name": "Neptune",
+    "type": "Ice Giant",
+    "distance_from_sun": 4495.1,
+    "diameter": 49244,
+    "day_length": 16.1,
+    "year_length": 60190,
+    "moons": 14,
+    "temperature": -200,
+    "fun_fact": "Neptune has the strongest winds in the solar system, with speeds over 2,000 kilometers per hour."
+  }
+]
